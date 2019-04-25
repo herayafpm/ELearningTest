@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "366155536512",
+    "firebase_url": "https://elearning-b4dcc.firebaseio.com",
+    "project_id": "elearning-b4dcc",
+    "storage_bucket": "elearning-b4dcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366155536512:android:39140d5e7e529c6d",
+        "android_client_info": {
+          "package_name": "com.heraya.e_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366155536512-de7nfvnflg5gu0luvc8bc33ij9qn02ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heraya.e_learning",
+            "certificate_hash": "4eff5e302574b8b09f1a1c99d2a4824b6c08227e"
+          }
+        },
+        {
+          "client_id": "366155536512-75cm98i2rumv92n6re8gjq0lrt0ms0fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwMyyO1Ex_w9HoiEbhYPH1r3C9wdYiH7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366155536512-75cm98i2rumv92n6re8gjq0lrt0ms0fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
